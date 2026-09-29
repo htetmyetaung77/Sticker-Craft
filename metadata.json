@@ -1,0 +1,6 @@
+{
+  "name": "StickerCraft & GIF Studio",
+  "description": "AI-powered Sticker Maker, Animated GIF Creator & Telegram/WhatsApp Pack Publisher with Channel Booster integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
